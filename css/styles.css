@@ -4,17 +4,25 @@
 }
 
 .column1 {
-  background-color: purple;
+  background-color: pink;
   width: 400px;
   float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .column2 {
-  background-color: blue;
+  background-color: teal;
   width: 400px;
   float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
+p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
 h1 {
   text-align: center;
 }
