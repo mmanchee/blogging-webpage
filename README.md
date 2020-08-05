@@ -1,15 +1,19 @@
-# Title
+# _Epicodus Blog_
 
-#### Briff like (HTML Excersice for Epicodus), Date
+#### _Excersice for Epicodus, August 5th, 2020_
 
-#### Contributors
+#### _Mike Manchee and Garrett Brown_
 
 ### Description
+Exercise that looks at Div, Float, and Box Model
 
 ### Setup
+Load in browser and view
 
 ### Technologies Used
+* HTML
+* CSS
 
 ### Licencing
-Copyright 2020 _NAME_
+Copyright 2020 _Mike Manchee and Garrett Brown_
 This is licenced under MIT
