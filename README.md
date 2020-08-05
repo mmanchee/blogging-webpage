@@ -5,7 +5,7 @@
 #### _Mike Manchee and Garrett Brown_
 
 ### Description
-Exercise that looks at Div, Float, and Box Model
+Exercise that looks at Div, Float, @media, css styling, and Box Model
 
 ### Setup
 Load in browser and view
