@@ -37,3 +37,28 @@ img {
   margin-right: auto;
   width: 25%;
 }
+
+@media screen and (max-width: 480px) and (min-width: 300px){
+  body {
+    background-color: black;
+  }
+  
+  .column {
+    width: 150px;
+  }
+
+  h3 {
+    color: aqua;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px){
+  body {
+    background-color: yellow;
+  }
+
+  .column {
+    width: 300px;
+  }
+
+}
