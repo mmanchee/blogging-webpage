@@ -1,0 +1,16 @@
+.header {
+  color: blue;
+  background-color: teal;
+}
+
+.column1 {
+  background-color: purple;
+  width: 300px;
+  float: left;
+}
+
+.column2 {
+  background-color: blue;
+  width: 300px;
+  float: left;
+}
