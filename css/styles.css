@@ -5,12 +5,26 @@
 
 .column1 {
   background-color: purple;
-  width: 300px;
+  width: 400px;
   float: left;
 }
 
 .column2 {
   background-color: blue;
-  width: 300px;
+  width: 400px;
   float: left;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+
+} {
+
 }
